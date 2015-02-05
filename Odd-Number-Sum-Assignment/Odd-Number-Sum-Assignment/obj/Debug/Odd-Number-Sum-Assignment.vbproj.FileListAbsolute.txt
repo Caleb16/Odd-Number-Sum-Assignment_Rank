@@ -1,0 +1,10 @@
+C:\Users\Caleb\Documents\GitHub\Odd-Number-Sum-Assignment\Odd-Number-Sum-Assignment\bin\Debug\Odd-Number-Sum-Assignment.exe.config
+C:\Users\Caleb\Documents\GitHub\Odd-Number-Sum-Assignment\Odd-Number-Sum-Assignment\bin\Debug\Odd-Number-Sum-Assignment.exe
+C:\Users\Caleb\Documents\GitHub\Odd-Number-Sum-Assignment\Odd-Number-Sum-Assignment\bin\Debug\Odd-Number-Sum-Assignment.pdb
+C:\Users\Caleb\Documents\GitHub\Odd-Number-Sum-Assignment\Odd-Number-Sum-Assignment\bin\Debug\Odd-Number-Sum-Assignment.xml
+C:\Users\Caleb\Documents\GitHub\Odd-Number-Sum-Assignment\Odd-Number-Sum-Assignment\obj\Debug\Odd_Number_Sum_Assignment.Form1.resources
+C:\Users\Caleb\Documents\GitHub\Odd-Number-Sum-Assignment\Odd-Number-Sum-Assignment\obj\Debug\Odd_Number_Sum_Assignment.Resources.resources
+C:\Users\Caleb\Documents\GitHub\Odd-Number-Sum-Assignment\Odd-Number-Sum-Assignment\obj\Debug\Odd-Number-Sum-Assignment.vbproj.GenerateResource.Cache
+C:\Users\Caleb\Documents\GitHub\Odd-Number-Sum-Assignment\Odd-Number-Sum-Assignment\obj\Debug\Odd-Number-Sum-Assignment.exe
+C:\Users\Caleb\Documents\GitHub\Odd-Number-Sum-Assignment\Odd-Number-Sum-Assignment\obj\Debug\Odd-Number-Sum-Assignment.xml
+C:\Users\Caleb\Documents\GitHub\Odd-Number-Sum-Assignment\Odd-Number-Sum-Assignment\obj\Debug\Odd-Number-Sum-Assignment.pdb
